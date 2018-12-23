@@ -4,11 +4,9 @@ This is the technical documentation hub for Made Tech. You can use this resource
 
 Primarily this resource is for Made Tech software engineers but we hope it's useful for other folk too.
 
-## Our Handbook
+## Resources
 
-If you are interested in understanding Made Tech culture you should read our open source [Handbook](https://github.com/handbook). You can find out what it's like to work in one of our software engineering teams, read our role definitions, understand our benefits and policies, and more.
-
-## Developer Resources
+We have published a number of learning resources on software delivery.
 
 <table class="table">
   <col width='30%'>
@@ -161,3 +159,7 @@ madetech.com is comprised of a few applications composed with an nginx forward p
     </td>
   </tr>
 </table>
+
+## Made Tech Handbook
+
+If you are interested in understanding Made Tech culture you should read our open source [Handbook](https://github.com/handbook). You can find out what it's like to work in one of our software engineering teams, read our role definitions, understand our benefits and policies, and more.

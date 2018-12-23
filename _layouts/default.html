@@ -70,6 +70,38 @@
 
   <main class="container">
     <div class="row">
+      <div class="col-lg-3 border-right">
+        <nav>
+          {%- assign page_slug = page.url | split: '/' | last -%}
+
+          <ul class="nav flex-column">
+            <li>
+              <a href="#our-handbook" class="nav-link pl-0">
+                Made Tech Handbook
+              </a>
+            </li>
+
+            <li>
+              <a href="#developer-resources" class="nav-link pl-0">
+                Developer Resources
+              </a>
+            </li>
+
+            <li>
+              <a href="#open-source" class="nav-link pl-0">
+                Open Source
+              </a>
+            </li>
+
+            <li>
+              <a href="#platform-for-madetechcom" class="nav-link pl-0">
+                Platform for madetech.com
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
       <div class="col-lg-9">
         {{ content }}
       </div>

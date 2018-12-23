@@ -8544,6 +8544,14 @@ h1, h2, h3, h4, h5, h6,
   line-height: 1.5;
 }
 
+h1 {
+  color: #000;
+}
+
+h2, h3, h4 {
+  color: #222;
+}
+
 .header__inner {
   padding: 1em 0;
 }
@@ -8651,6 +8659,19 @@ h1, h2, h3, h4, h5, h6,
   margin-left: .5rem;
 }
 
+.prose {
+  color: #444;
+  font-size: 1.3rem;
+}
+
+.prose h1 {
+  padding: 0 0 1.5rem 0;
+}
+
+.prose h2, .prose h3, .prose h4 {
+  padding: 1rem 0 .5rem 0;
+}
+
 .prose a {
   color: #000;
   font-weight: bold;
@@ -8659,6 +8680,28 @@ h1, h2, h3, h4, h5, h6,
 
 .prose a:hover, .prose a:focus {
   color: #439a63;
+}
+
+.prose blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 2.5rem 0px 0px 2.5rem;
+  padding: .5rem 1.5rem;
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+.prose blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-family: Helvetica;
+  font-size: 7em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+.prose img {
+  max-width: 100%;
 }
 
 .top_bar {

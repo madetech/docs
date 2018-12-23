@@ -11,7 +11,7 @@ If you are interested in understanding Made Tech culture you should read our ope
 ## Developer Resources
 
 <table class="table">
-  <col width='25%'>
+  <col width='30%'>
 
   <tr>
     <td>
@@ -55,13 +55,13 @@ If you are interested in understanding Made Tech culture you should read our ope
 We open source some of our work for easy reuse by our teams and often for the benefit of others outside our own organisation.
 
 <table class="table">
-  <col width='25%'>
+  <col width='30%'>
 
   <tr>
     <td>
-      <a href="https://frontend.madetech.com">
-        <strong>@madetech/frontend</strong>
-      </a>
+      <a href="https://frontend.madetech.com"><strong>@madetech/frontend</strong></a>
+
+      <br />
 
       <a href="https://badge.fury.io/js/%40madetech%2Ffrontend">
         <img src="https://badge.fury.io/js/%40madetech%2Ffrontend.svg" alt="npm version" />
@@ -75,9 +75,9 @@ We open source some of our work for easy reuse by our teams and often for the be
 
   <tr>
     <td>
-      <a href="https://github.com/madetech/cf-deploy">
-        <strong>cf-deploy</strong>
-      </a>
+      <a href="https://github.com/madetech/cf-deploy"><strong>cf-deploy</strong></a>
+
+      <br />
 
       <a href="https://badge.fury.io/rb/cf-deploy">
         <img src="https://badge.fury.io/rb/cf-deploy.svg" alt="Gem version" />
@@ -91,9 +91,9 @@ We open source some of our work for easy reuse by our teams and often for the be
 
   <tr>
     <td>
-      <a href="https://github.com/madetech/jobspec">
-        <strong>jobspec</strong>
-      </a>
+      <a href="https://github.com/madetech/jobspec"><strong>jobspec</strong></a>
+
+      <br />
 
       <a href="https://badge.fury.io/rb/job_spec">
         <img src="https://badge.fury.io/rb/job_spec.svg" alt="Gem version" />
@@ -111,7 +111,7 @@ We open source some of our work for easy reuse by our teams and often for the be
 madetech.com is comprised of a few applications composed with an nginx forward proxy. Below you will find links to the independent components.
 
 <table class="table">
-  <col width='25%'>
+  <col width='30%'>
 
   <tr>
     <td>

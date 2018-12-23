@@ -10,7 +10,7 @@ If you are interested in understanding Made Tech culture you should read our ope
 
 ## Developer Resources
 
-- [**Learn&hairsp;Tech**](https://learn.madetech.com) – Our learning materials, workshops, code katas, and more.
+- [**Learn Tech**](https://learn.madetech.com) – Our learning materials, workshops, code katas, and more.
 - [**Productionistion**](https://github.com/madetech/productionisation) – Our application checklist for production readiness. We use this resource for ensuring applications we build are supportable over the long term.
 - [**Clean Architecture**](https://github.com/madetech/clean-architecture) – A (work-in-progress) guide to the methodology behind Made Tech Flavoured Clean Architecture.
 

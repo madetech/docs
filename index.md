@@ -108,7 +108,7 @@ We open source some of our work for easy reuse by our teams and often for the be
 
 ## Platform for madetech.com
 
-Our www.madetech.com website is comprised of a few applications composed with an nginx forward proxy. Below you will find links to the independent components.
+madetech.com is comprised of a few applications composed with an nginx forward proxy. Below you will find links to the independent components.
 
 <table class="table">
   <col width='25%'>

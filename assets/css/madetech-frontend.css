@@ -8651,6 +8651,16 @@ h1, h2, h3, h4, h5, h6,
   margin-left: .5rem;
 }
 
+.prose a {
+  color: #000;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.prose a:hover, .prose a:focus {
+  color: #439a63;
+}
+
 .top_bar {
   background: #252525;
   color: #fff;

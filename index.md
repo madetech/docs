@@ -1,10 +1,10 @@
-# Made Tech Developer Docs
+# Made Tech Engineering Docs
 
 This is the technical documentation hub for Made Tech. You can use this resource to discover and learn about applications and open source libraries we have built both for ourselves and customers.
 
 Primarily this resource is for Made Tech software engineers but we hope it's useful for other folk too.
 
-## Resources
+## Learning Resources
 
 We have published a number of learning resources on software delivery.
 

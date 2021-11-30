@@ -46,6 +46,17 @@ We have published a number of learning resources on software delivery.
       A (work-in-progress) guide to the methodology behind Made Tech Flavoured Clean Architecture.
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://madetech.github.io/ops-cookbook/docs/intro">
+        <strong>Ops Cookbook</strong>
+      </a>
+    </td>
+
+    <td>
+      A collection of recipes, often in Terraform for common Ops tasks.
+    </td>
+  </tr>
 </table>
 
 ## Open Source

@@ -173,4 +173,4 @@ madetech.com is comprised of a few applications composed with an nginx forward p
 
 ## Made Tech Handbook
 
-If you are interested in understanding Made Tech culture you should read our open source [Handbook](https://github.com/handbook). You can find out what it's like to work in one of our software engineering teams, read our role definitions, understand our benefits and policies, and more.
+If you are interested in understanding Made Tech culture you should read our open source [Handbook](https://github.com/madetech/handbook). You can find out what it's like to work in one of our software engineering teams, read our role definitions, understand our benefits and policies, and more.
